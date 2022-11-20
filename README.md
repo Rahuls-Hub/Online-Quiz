@@ -1,7 +1,7 @@
 # Online-Quiz
 Solve the questions and view your scores
 
-**All about inbuit libraries**
+**All about inbuilt libraries**
 Java comes with a set of code libraries designed to help programmers quickly create applications.
 The two import statements know that the application needs access to some of the pre-built functionality contained within the "AWT" and "Swing" code libraries.
 
